@@ -156,6 +156,7 @@ print("-------------------------------------")
 # -------------------------------
 # EXPORT CSV
 # -------------------------------
+
 df_final.to_csv(output_file, index=False)
 
 print("✅ Price update CSV generated successfully.")
