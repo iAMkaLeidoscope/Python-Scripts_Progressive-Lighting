@@ -12,10 +12,10 @@ from datetime import datetime
 # CONFIG
 # ----------------------------------------------------------
 
-input_file = r"C:\Users\klaxamana\Files To-Do\Varaluz_ToAdd.xlsx"
+input_file = r"C:\Users\klaxamana\Files To-Do\Kalco_ToAdd.xlsx"
 sheet_name = "Sheet1"
 
-vendor_notes_file = r"C:\Users\klaxamana\Files To-Do\VendorDataNotes_3.30.26.xlsx"
+vendor_notes_file = r"C:\Users\klaxamana\Files To-Do\VendorDataNotes\VendorDataNotes_3.30.26.xlsx"
 
 output_folder = r"C:\Users\klaxamana\New Items to Load"
 
