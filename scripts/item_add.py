@@ -12,7 +12,7 @@ from datetime import datetime
 # CONFIG
 # ----------------------------------------------------------
 
-input_file = r"C:\Users\klaxamana\Files To-Do\Varaluz_ToAdd.xlsx"
+input_file = r"C:\Users\klaxamana\Files To-Do\VC-Modern_ToAdd.xlsx"
 sheet_name = "Sheet1"
 
 vendor_notes_file = r"C:\Users\klaxamana\Files To-Do\VendorDataNotes\VendorDataNotes_3.30.26.xlsx"
