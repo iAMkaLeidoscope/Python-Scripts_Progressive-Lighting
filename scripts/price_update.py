@@ -6,7 +6,7 @@ from datetime import datetime
 # -------------------------------
 # CONFIG
 # -------------------------------
-input_file = r"C:\Users\klaxamana\Files To-Do\MinkaAire_PriceUpdate.xlsx"
+input_file = r"C:\Users\klaxamana\Files To-Do\Eurofase_PriceUpdate.xlsx"
 sheet_name = "Sheet1"
 vendor_notes_file = r"C:\Users\klaxamana\Files To-Do\VendorDataNotes\VendorDataNotes_3.30.26.xlsx"
 output_folder = r"C:\Users\klaxamana\Price Updates to Load"
